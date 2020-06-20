@@ -304,7 +304,7 @@ header .contacts {
     margin-bottom: 16px;
 }
 
-.team a {
+.team-link {
     padding-bottom: 24px;
 }
 
@@ -512,7 +512,7 @@ footer > .conteiner {
 }
 
 .list .item {
-    width: 370px;
+    width: 372px;
     margin-bottom: 20px;
     border: 1px solid #EEEEEE;
     
